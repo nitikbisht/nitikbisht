@@ -1,6 +1,7 @@
+<!-- [![MasterHead](https://th.bing.com/th/id/R.7aac0a65c2f22ba34702ab7413afd7aa?rik=3QLaVVVlQ8ByPQ&riu=http%3a%2f%2fperfonec.com%2fwp-content%2fuploads%2f2019%2f03%2fhome-gif.gif&ehk=t5qZ3Kod64AaXvjumGsEYHoPvBh7swqcZROIBTCNiow%3d&risl=&pid=ImgRaw&r=0)](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm @nitikbisht</h1>
 <h3 align="center">A Passionate Full Stack Web Developer From India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitikbisht&label=Profile%20views&color=0e75b6&style=flat" alt="nitikbisht" /> </p>
 
 - 🌱 I’m currently learning **Something New**
