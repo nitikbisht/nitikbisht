@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **nitikbisht62@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ENr2GkkbhlbvWj7zuW5RnJrHgwz5N3Fw/view?usp=sharing](https://drive.google.com/file/d/1ENr2GkkbhlbvWj7zuW5RnJrHgwz5N3Fw/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ENr2GkkbhlbvWj7zuW5RnJrHgwz5N3Fw/view?usp=sharing](https://drive.google.com/file/d/1Ecsa8CBpiyQCT32elRphbbUsvonhK3eZ/view?usp=sharing)
 
 - ⚡ Fun fact **I ❤️ Playing Chess**
 
