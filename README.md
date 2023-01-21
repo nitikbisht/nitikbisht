@@ -10,9 +10,9 @@
 
 - 📫 How to reach me **nitikbisht62@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://nitikbisht.netlify.app/](https://nitikbisht.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://nitikbisht.netlify.app/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ENr2GkkbhlbvWj7zuW5RnJrHgwz5N3Fw/view?usp=sharing](https://drive.google.com/file/d/1Ecsa8CBpiyQCT32elRphbbUsvonhK3eZ/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ecsa8CBpiyQCT32elRphbbUsvonhK3eZ/view?usp=sharing)
 
 - ⚡ Fun fact **I ❤️ Playing Chess**
 
