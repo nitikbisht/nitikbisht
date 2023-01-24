@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **JavaScript / React-JS / HTML / CSS**
 
-- 📫 How to reach me [Email](mailto:nitikbisht62@gmail.com) & [LinkedIn](https://linkedin.com/in/nitikbisht)
+- 📫 How to reach me [Email](mailto:nitikbisht62@gmail.com) & [LinkedIn](https://www.linkedin.com/in/nitik-bisht-62nb/)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://nitikbisht.netlify.app/) & [Github](https://github.com/nitikbisht)
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nitikbisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitik bisht" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nitik-bisht-62nb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitik bisht" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
