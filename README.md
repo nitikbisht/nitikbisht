@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Something New**
 
-- 💬 Ask me about **JavaScript / React-JS / HTML / CSS**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me [Email](mailto:nitikbisht62@gmail.com) & [LinkedIn](https://www.linkedin.com/in/nitik-bisht-62nb/)
 
