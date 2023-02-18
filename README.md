@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://nitikbisht.netlify.app/) & [Github](https://github.com/nitikbisht)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ecsa8CBpiyQCT32elRphbbUsvonhK3eZ/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/16kv2qRKlH5WG442P4_AcuP7v0-o0q1Vc?usp=sharing)
 
 - ⚡ Fun fact **I ❤️ Playing Chess**
 
