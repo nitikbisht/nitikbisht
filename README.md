@@ -1,42 +1,99 @@
-<!-- [![MasterHead](https://th.bing.com/th/id/R.7aac0a65c2f22ba34702ab7413afd7aa?rik=3QLaVVVlQ8ByPQ&riu=http%3a%2f%2fperfonec.com%2fwp-content%2fuploads%2f2019%2f03%2fhome-gif.gif&ehk=t5qZ3Kod64AaXvjumGsEYHoPvBh7swqcZROIBTCNiow%3d&risl=&pid=ImgRaw&r=0)](https://rishavchanda.io) -->
-<h1 align="center">Hi 👋, I'm @nitikbisht</h1>
-<h3 align="center">A Passionate Full Stack Web Developer From India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitikbisht&label=Profile%20views&color=0e75b6&style=flat" alt="nitikbisht" /> </p>
+# 👋 Hi, I'm Nitik Bisht
 
-- 🌱 I’m currently learning **Something New**
+### Full Stack Software Engineer | React.js | Next.js | Node.js | Express.js
 
-- 💬 Ask me about **MERN**
+I'm a **Full Stack Software Engineer with 3+ years of experience** building, enhancing, and maintaining modern web applications.
 
-- 📫 How to reach me [Email](mailto:nitikbisht62@gmail.com) & [LinkedIn](https://www.linkedin.com/in/nitik-bisht-62nb/)
+I enjoy developing responsive user interfaces, building backend APIs, working with databases, and solving real-world engineering challenges.
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://nitikbisht.netlify.app/) & [Github](https://github.com/nitikbisht)
+- 💻 Working with **React.js, Next.js, JavaScript, Node.js, and Express.js**
+- 🔧 Interested in scalable web applications, API development, and performance optimization
+- 🌱 Continuously learning and improving my engineering skills
+- 💬 Ask me about **JavaScript, React.js, Next.js, Node.js, and REST APIs**
+- 📫 Reach me at [Email](mailto:nitikbisht62@gmail.com)
+- 🌐 Explore my work: [Portfolio](https://portfolio-nitik-bishts-projects.vercel.app/)
+- 📄 [View My Resume](https://drive.google.com/drive/folders/16kv2qRKlH5WG442P4_AcuP7v0-o0q1Vc?usp=sharing)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/16kv2qRKlH5WG442P4_AcuP7v0-o0q1Vc?usp=sharing)
+---
 
-- ⚡ Fun fact **I ❤️ Playing Chess**
+### 🤝 Connect With Me
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nitik-bisht-62nb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitik bisht" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/nitik-bisht-62nb/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nitikbisht62@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/nitikbisht" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitikbisht&show_icons=true&locale=en&layout=compact" alt="nitikbisht" /></p>
+### 🛠️ Tech Stack & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitikbisht&show_icons=true&locale=en" alt="nitikbisht" /></p>
+**Frontend Development**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitikbisht&" alt="nitikbisht" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux" alt="Frontend Technologies" />
+</p>
 
+**Backend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Technologies" />
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" alt="Databases" />
+</p>
+
+**Tools & Platforms**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,docker,postman,vscode" alt="Development Tools" />
+</p>
+
+**Additional Technologies & Tools**
+
+- SQL Server
+- REST API Development
+- JWT Authentication
+- Kibana
+- Jira
+- SonarQube
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nitikbisht&show_icons=true&theme=tokyonight&hide_border=true" alt="Nitik's GitHub Statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitikbisht&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitikbisht&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+### ⚡ A Little About Me
+
+- 🧩 I enjoy solving technical challenges and building useful products.
+- ♟️ I love playing chess.
+- 🚀 Always interested in exploring better ways to build software.
+
+---
+
+<p align="center">
+  <b>Code. Build. Learn. Repeat. 🚀</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nitikbisht&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
